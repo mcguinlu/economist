@@ -16,6 +16,6 @@ Each folder is named using the data the visualisation was released.
 
 <br>
 
-![](2021_07_10/2021_07_10_Elections_Pandemic_Attempt.png) \_My attempt
-to recreate the July 10th 2021 graphic. The original can be found in the
-“2021\_07\_10” folder, and uses the suffix "*Real".*
+![](2021_07_10/2021_07_10_Elections_Pandemic_Attempt.png) *My attempt to
+recreate the July 10th 2021 graphic. The original can be found in the
+“2021\_07\_10” folder.*
