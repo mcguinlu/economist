@@ -16,6 +16,25 @@ Each folder is named using the data the visualisation was released.
 
 <br>
 
-![](2021_07_10/2021_07_10_Elections_Pandemic_Attempt.png) *My attempt to
-recreate the July 10th 2021 graphic. The original can be found in the
-“2021\_07\_10” folder.*
+<style>
+table th:first-of-type {
+    width: 40%;
+}
+table th:nth-of-type(2) {
+    width: 40%;
+}
+</style>
+
+### 2021-07-10
+
+|                          Real                          |                          Attempt                          |
+|:------------------------------------------------------:|:---------------------------------------------------------:|
+| ![](2021_07_10/2021_07_10_Elections_Pandemic_Real.jpg) | ![](2021_07_10/2021_07_10_Elections_Pandemic_Attempt.png) |
+
+<hr>
+
+### 2020-11-21
+
+|                    Real                     |                    Attempt                     |
+|:-------------------------------------------:|:----------------------------------------------:|
+| ![](2020_11_21/2020_11_21_Us_Them_Real.png) | ![](2020_11_21/2020_11_21_Us_Them_Attempt.png) |
