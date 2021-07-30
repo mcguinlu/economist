@@ -38,7 +38,7 @@ the left, and the recreation attempt is on the right.
 
 <div style="text-align:center">
 
-<img src="2020_11_21/2020_11_21_Us_Them_Real.png" width="30%"></img>
-<img src="2020_11_21/2020_11_21_Us_Them_Attempt.png" width="40%"></img>
+<img src="2020_11_21/2020_11_21_US_Them_Real.png" width="30%"></img>
+<img src="2020_11_21/2020_11_21_US_Them_Attempt.png" width="40%"></img>
 
 </div>

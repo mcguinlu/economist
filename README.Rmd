@@ -44,7 +44,7 @@ Some examples are shown below. In each case, the original graphic is on the left
 
 <div style="text-align:center">
 
-<img src="2020_11_21/2020_11_21_Us_Them_Real.png" width="30%"></img> <img src="2020_11_21/2020_11_21_Us_Them_Attempt.png" width="40%"></img>
+<img src="2020_11_21/2020_11_21_US_Them_Real.png" width="30%"></img> <img src="2020_11_21/2020_11_21_US_Them_Attempt.png" width="40%"></img>
 
 
 </div>
